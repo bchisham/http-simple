@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+/.idea/.gitignore
+/.idea/aws.xml
+/go.sum
+/.idea/http-simple.iml
+/.idea/modules.xml
+/.idea/vcs.xml
